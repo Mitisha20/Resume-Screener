@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": "python",
+    "buildCommand": "",
+    "startCommand": "python run.py"
+  },
+  "root": "backend"
+}
