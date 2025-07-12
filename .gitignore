@@ -1,0 +1,30 @@
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Python virtual environments
+env/
+venv/
+.venv/
+backend/venv/
+Lib/
+Include/
+Scripts/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+backend/__pycache__/
+
+# Secrets and environment
+.env
+*.env
+
+# Output / media
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
