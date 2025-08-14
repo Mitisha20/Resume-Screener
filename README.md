@@ -3,7 +3,6 @@
 A **full-stack web application** that helps recruiters and hiring managers efficiently **screen and rank resumes** based on their relevance to a specific job description.  
 This project uses **Natural Language Processing (NLP)** to go beyond keyword matching, providing **semantic understanding** for more accurate and intelligent ranking.
 
-🚀 **[Live Demo](YOUR_DEPLOYMENT_LINK)**
 
 ---
 
